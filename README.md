@@ -29,4 +29,4 @@ I could not find a way to add Load button just below selection of language and l
 
 Do not change selected language and selected language file and then click Save. If you do that you will end up saving translation to the wrong place. Will be fixed.
 
-I noticed that, if qa-lang-admin.php source file is loaded in Translator, it messes up displaying of Admin submeny. I have no clue why that happens. I load that file into local variable within plugin class method so it should not affect anything, but it does. You know the drill: any suggestion is welcomme.
+I noticed that, if qa-lang-admin.php source file is loaded in Translator, it messes up displaying of Admin submeny. I have no clue why that happens. I load that file into local variable within plugin class method so it should not affect anything, but it does. You know the drill: any suggestion is welcome.
