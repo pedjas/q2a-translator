@@ -9,15 +9,17 @@ HOW TO USE
 
 First, install this plugin by copying it to qa-plugin derictory and enable it using Question2Answer site admin. New menu item named Translator wil show up in Admin submenu.
 
-Now, crate new language manually, by creating new directory in qa-language, and setting metadata.json file. You do not have to copy any of the original (english) language files, other than specified json file, nothing else is needed.
+Now, crate new language manually, by creating new directory in qa-language, and setting metadata.json file. You do not have to copy any of the original (english) language files. Other than specified json file, nothing else is needed.
 
-Open Transaltor. It wil show selection of languages (newly created language would be in list) and selection of language files.
+Open Translator. It will show selection of languages (newly created language would be in the list) and selection of language files.
 
 Choose new language and any of language files. Then go to the bottom of the page anc click Load. It wil load source language file in English and offer edit fileds for you to write in translated phrases.
 
 After you do soem translation go to the bottom of the page and click Save. It will create custom languiage file for new language containing translated phrases.
 
 And thatis all, you may repeat the process for any installed language and any language file.
+
+You can now have comfort of looking site in the language you are editing in one window and editing translation files in other window and see changes in real time.
 
 ISSUES
 
