@@ -1,7 +1,7 @@
 # q2a-translator
 Question2Answer plugin for online translation of Question2Answer language files
 
-This makes proces of making translations for Question2Answer easier. Insted of manuallz copzing and editing language files, you get option to edit transaltion phrases on line, thorugh Translation page within Administration section of Question2Answer site.
+This makes proces of making translations for Question2Answer easier. Insted of manually copying and editing language files, you get option to edit translation phrases on line, through Translation page within Administration section of Question2Answer site.
 
 Works with Question2Answer version 1.8.0. Not tested with earlier versions.
 
