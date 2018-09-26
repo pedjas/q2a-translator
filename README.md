@@ -7,7 +7,7 @@ Works with Question2Answer version 1.8.0. Not tested with earlier versions.
 
 HOW TO USE
 
-First, install this plugin by copying it to qa-plugin derictory and enable it using Question2Answer site admin. New menu item named Translator wil show up in Admin submenu.
+First, install this plugin by copying it to qa-plugin directory and enable it using Question2Answer site admin. New menu item named Translator wil show up in Admin submenu.
 
 Now, crate new language manually, by creating new directory in qa-language, and setting metadata.json file. You do not have to copy any of the original (english) language files. Other than specified json file, nothing else is needed.
 
