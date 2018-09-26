@@ -21,6 +21,8 @@ And thatis all, you may repeat the process for any installed language and any la
 
 You can now have comfort of looking site in the language you are editing in one window and editing translation files in other window and see changes in real time.
 
+![q2a-translator](https://user-images.githubusercontent.com/2223601/46084028-fee3ba00-c1a2-11e8-9eba-21b8e8a96fb9.png)
+
 ISSUES
 
 This is my very first plugin for Question2Answer. Documentation for Questin2Answer plugin developers is very short and Spartanic so I had to dig a lot to get to the basics. That means, it may be that some things I did in wrong way. But do not worry, it works. Any suggestion to imporove plugin code is welcomme.
