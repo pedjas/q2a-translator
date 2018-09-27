@@ -10,5 +10,5 @@
 	"min_q2a": "1.8.0",
 	"min_php": "5.3",
 	"load_order": "after_db_init",
-	"update_uri": "https://github.com/pedjas/q2a-translator/blob/master/metadata.json"
+	"update_uri": "https://raw.githubusercontent.com/pedjas/q2a-translator/master/metadata.json"
 }
