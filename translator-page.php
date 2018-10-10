@@ -20,6 +20,17 @@ class translator_page {
     } 
 
 
+		function suggest_requests() 
+		{	
+			return array(
+				array(
+					'title' => 'Translator', // title of page
+					'request' => 'admin/translator', // request name
+					'nav' => 'M', // 'M'=main, 'F'=footer, 'B'=before main, 'O'=opposite main, null=none
+				),
+			);
+		}
+
     public function match_request($request) {
         if(qa_get_logged_in_level() >= QA_USER_LEVEL_ADMIN)
             return $request == 'admin/translator';
@@ -88,7 +99,7 @@ class translator_page {
         $lCustomTable = include ($lCustomLanguageFile);
 
       } else {
-        $lCustomTable = [];
+        $lCustomTable = array();
       }
 
 //print_r ($lCustomTable);      
@@ -190,7 +201,7 @@ class translator_page {
 	File: $lLanguageFile
 	Description: Language phrases
 
-  Created using Translator plugin for Questin2Answer by Predrag Supurovic
+  Created using Translator plugin for Question2Answer by Predrag Supurovic
   
 */\r\n\r\n";
 
