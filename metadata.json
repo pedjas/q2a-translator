@@ -7,7 +7,7 @@
 	"author": "Pedja Supurovic",
 	"author_uri": "http://pedja.supurovic.net",
 	"license": "GPLv2",
-	"min_q2a": "1.8.0",
+	"min_q2a": "1.7.5",
 	"min_php": "5.3",
 	"load_order": "after_db_init",
 	"update_uri": "https://raw.githubusercontent.com/pedjas/q2a-translator/master/metadata.json"
